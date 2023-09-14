@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title></title>
+</head>
+
+<body style="display: flex; flex-direction: column; align-items: center; background: black; gap: 20px;">
+  <div
+    style="border: 2px black solid; width: 300px; height: 4300px; border-radius: 30px; background: paleturquoise; padding: 50px 50px;">
+    <div style=" color: red; padding: 10px 40px;">
+      <h1>MENU CARD</h1>
+    </div>
+    <div style=" color: NAVY; padding: 20px 80px;">
+      <h2>PANIPURI</h2>
+    </div>
+    <div style="  padding: 10px 40px;"><img style="border: 2px black solid; border-radius: 15000px;"
+        src="C:\Users\hemanth\Desktop\html\panipuri.jpg" alt="" width="200px" height="200px">
+      <div style="padding: 2px 50px;">
+        <h3>PRICE:499</h3>
+      </div>
+      <div>
+        Panipuri has evolved signifi cantly over time.
+        Originally known as "gol gappa," the dish
+        consisted of a small, hollow, fried wheat shell
+        filled with spiced mashed potatoes and served
+        with a tamarind or mint-flavored water. Over time,
+        variations of the filling and the flavored water
+        emerged, reflecting the regional preferences and
+        availability of ingredients.
+      </div>
+    </div>
+
+    <div style=" color: green; padding: 20px 90px;">
+      <h2>NOODLES</h2>
+    </div>
+    <div style="padding: 10px 40px;"><img style="border: 2px black solid; border-radius: 15000px;"
+        src="C:\Users\hemanth\Desktop\html\noodles.jpg" alt="" width="200px" height="200px">
+      <div style=" padding: 2px 50px;">
+        <h3>PRICE:699</h3>
+      </div>
+      <div>
+        noodle, a cooked egg-and-flour paste prominent
+        in European and Asian cuisine, generally
+        distinguished from pasta by its elongated
+        ribbonlike form. Noodles are commonly used
+        to add body and flavour to broth soups.
+        They are commonly boiled or sautéed and served
+        with sauces and meats or baked in casseroles. </div>
+    </div>
+
+    <div style=" color: palevioletred; padding: 20px 100px;">
+      <h2>CHAAT</h2>
+    </div>
+    <div style=" padding: 10px 40px;"><img style="border: 2px black solid; border-radius: 15000px;"
+        src="C:\Users\hemanth\Desktop\html\chat.jpg" alt="" width="200px" height="200px">
+      <div style=" padding: 2px 50px;">
+        <h3>PRICE:599</h3>
+      </div>
+      <div>
+        The chaat variants are all based on fried
+        dough,with various other ingredients.
+        The original chaat is a mixture of potato
+        pieces, crisp fried bread dahi vada or dahi
+        bhalla, gram or chickpeas and tangy-salty
+        spices, with sour Indian chili and saunth
+        (dried ginger and tamarind sauce), fresh
+        green coriander leaves and yogurt for garnish,
+        but other popular variants included alu tikkis or
+        samosa (garnished with onion, potatoes, coriander,
+        peas, hot spices and a dash of yogurt), bhel puri,
+        dahi puri, panipuri, dahi vada, papri chaat, and sev puri.
+
+      </div>
+    </div>
+
+    <div color: orange; padding: 20px 70px;">
+      <h2>MANCHURIAN</h2>
+    </div>
+    <div style=" padding: 10px 40px;"><img style="border: 2px black solid; border-radius: 15000px;"
+        src="C:\Users\hemanth\Desktop\html\manchurian.jpg" alt="" width="200px" height="200px">
+      <div style=" padding: 2px 50px;">
+        <h3>PRICE:499</h3>
+      </div>
+      <div>
+        The word "Manchurian" means native or inhabitant
+        of Manchuria (in northeast China); the dish,
+        however, is a creation of Chinese restaurants
+        in India, and bears little resemblance to
+        traditional Manchu cuisine or Northeastern
+        Chinese cuisine.when a customer asked him to
+        create a new dish, different from what was
+        available on the menu. Wang described his
+        invention process as starting from the basic
+        ingredients of an Indian dish </div>
+    </div>
+
+    <div style="color:yellow; padding: 20px 70px;">
+      <h2>VEG PUFF</h2>
+    </div>
+    <div style="  padding: 10px 40px;"><img style="border: 2px black solid; border-radius: 15000px;"
+        src="C:\Users\hemanth\Desktop\html\veg puff.jpg" alt="" width="200px" height="200px">
+      <div style=" padding: 2px 50px;">
+        <h3>PRICE:299</h3>
+      </div>
+      <div>
+      </div>
+      Veg puff Recipe is a baked snack made with
+      puff pastry and filling of your choice.
+      It is a popular snack all over india in
+      every bakery. Variety of fillings from
+      veg, chicken, egg, mutton or beef is
+      filled inside puff pastry and baked till golden.
+    </div>
+
+    <div style="color: purple; padding: 20px 50px;">
+      <h2>NON-VEG PUFF</h2>
+    </div>
+    <div style="padding: 10px 40px;"><img style="border: 2px black solid; border-radius: 15000px;"
+        src="C:\Users\hemanth\Desktop\html\non veg.jpg" alt="" width="200px" height="200px">
+      <div style="padding: 2px 50px;">
+        <h3>PRICE:399</h3>
+      </div>
+      <div>
+        The recipe is as follows:finely
+        shredded napa cabbage,carrots,
+        mushrooms(preferably shitake),bean
+        sprouts,red bell pepper.1 tbs each
+        of rice wine vinegar,red chili paste,
+        hoisin sauce, ginger-garlic paste
+        and 2 tbs dark soy sauce.In a hot
+        wok add 3 tbs of sesame oil.
+      </div>
+    </div>
+
+    <div style="color: brown; padding: 20px 100px;">
+      <h2>Rolls</h2>
+    </div>
+    <div style=" padding: 10px 40px;"><img style="border: 2px black solid; border-radius: 15000px;"
+        src="C:\Users\hemanth\Desktop\html\rolls.jpg" alt="" width="200px" height="200px">
+      <div style=" padding: 2px 50px;">
+        <h3>PRICE:699</h3>
+      </div>
+      <div>
+        In this veg kathi rolls recipe, I have used
+        whole wheat dough to make the rolls.
+        The stuffing is made with mix veggies
+        like cauliflower, green peas, carrots,
+        french beans, capsicum and potatoes.
+        You can add your choice of veggies also.
+        Other veggies that can be added are
+        broccoli, baby corn, sauteed spinach,
+        beetroot and cooked corn.
+      </div>
+    </div>
+  </div>
+  </div>
+  </div>
+  </div>
+
+</body>
+
+</html>
